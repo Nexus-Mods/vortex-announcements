@@ -1,5 +1,5 @@
 {
-  "last_updated": 1691061740701,
+  "last_updated": 1691062004391,
   "extensions": [
     {
       "modId": 600,
@@ -76,6 +76,25 @@
       "version": "1.0.0",
       "type": "game",
       "gameName": "New something or other"
+    },
+    {
+      "modId": 596,
+      "fileId": 2181,
+      "author": "Aqua Ulta",
+      "uploader": "AquaUlta",
+      "description": {
+        "short": "Just a basic way to add Back 4 Blood to Vortex. You must unpak all paks before utilizing this tool, instructions here: https://www.youtube.com/watch?v=0c72e8w3x4Q",
+        "long": "Just basic way to add Back 4 Blood"
+      },
+      "downloads": 236,
+      "endorsements": 1,
+      "image": "https://staticdelivery.nexusmods.com/mods/2295/images/596/596-1688127675-1653053934.png",
+      "name": "Add Back4Blood",
+      "timestamp": 1688128431,
+      "tags": [],
+      "version": "1.0.3",
+      "type": "game",
+      "gameName": "Back 4 Blood"
     }
   ]
 }
