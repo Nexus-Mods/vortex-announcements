@@ -7137,25 +7137,6 @@
       "version": "1.0.1",
       "type": "game",
       "gameName": "Techtonica"
-    },
-    {
-      "modId": 614,
-      "fileId": 2234,
-      "author": "gabqe",
-      "uploader": "abqe",
-      "description": {
-        "short": "Just a extension to add Crusader Kings 3.",
-        "long": "Just a extension to add Crusader Kings 3."
-      },
-      "downloads": 171,
-      "endorsements": 0,
-      "image": "https://staticdelivery.nexusmods.com/Images/games/4_3/tile_3486.jpg",
-      "name": "Crusader Kings III - Extension",
-      "timestamp": 1690790658,
-      "tags": [],
-      "version": "1.0.0",
-      "type": "game",
-      "gameName": "crusaderkings3"
     }
   ]
 }
